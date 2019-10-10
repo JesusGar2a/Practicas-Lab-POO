@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 
-package practica.pkg4;
+package practica4.pkg;
+
 
 /**
  *
@@ -17,8 +18,12 @@ public class Practica4 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Jframemainapp 
-        jfr.
+        
+       
+        nJFrame myjfrm = new nJFrame();
+                 
+        myjfrm.setVisible(true);
     }
-    
 }
+    
+
