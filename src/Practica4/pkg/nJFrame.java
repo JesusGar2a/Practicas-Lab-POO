@@ -198,7 +198,7 @@ public class nJFrame extends javax.swing.JFrame {
       String myDriver = "com.mysql.cj.jdbc.Driver";
       String myUrl = "jdbc:mysql://localhost:3306/practica5?zeroDateTimeBehavior=convertToNull&serverTimezone=UTC";
       String user = "root";
-      String pass = "Weegeestaaqui1";
+      String pass = "root";
       Class.forName(myDriver);
       Connection conn = DriverManager.getConnection(myUrl, user, pass);
     
